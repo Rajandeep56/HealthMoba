@@ -1,2 +1,0 @@
-# HealthMoba
-Android Application
